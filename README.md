@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![TechnociteWallpaper](https://github.com/user-attachments/assets/e3aab2d3-a53d-4586-b462-b1d0c6a1cf7c)
+
 <!--
 **Brojobo/Brojobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
